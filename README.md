@@ -1,5 +1,4 @@
 # Notepad++ for Fusion Customizations  
-2021-12-06 09.34 AM  
 By Andrew Hazelden <andrew@andrewhzelden.com>  
 
 This project supplies a highly customized version of Notepad++ that adds a lot of convenience festures. It was created to help pipeline TDs in the visual effects sector get more out of their Notepadd++ user experience. This is a portable install of the app.
