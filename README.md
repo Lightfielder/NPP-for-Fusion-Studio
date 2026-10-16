@@ -4,6 +4,8 @@ By Andrew Hazelden <andrew@andrewhzelden.com>
 
 This project supplies a highly customized version of Notepad++ that adds a lot of convenience festures. It was created to help pipeline TDs in the visual effects sector get more out of their Notepadd++ user experience.
 
+To activate the dark-mode user interface for Notepad++, you need to remove your previous Notepad++ preferences from the "`%AppData%`" folder to allow this updated version's settings to be used from the portable install folder.
+
 ## Screenshots
 
 ![Notepad++ Main Window](images/npp-fusion-main-window.png)
