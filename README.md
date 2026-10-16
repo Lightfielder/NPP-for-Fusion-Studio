@@ -2,9 +2,9 @@
 2021-12-06 09.34 AM  
 By Andrew Hazelden <andrew@andrewhzelden.com>  
 
-This project supplies a highly customized version of Notepad++ that adds a lot of convenience festures. It was created to help pipeline TDs in the visual effects sector get more out of their Notepadd++ user experience.
+This project supplies a highly customized version of Notepad++ that adds a lot of convenience festures. It was created to help pipeline TDs in the visual effects sector get more out of their Notepadd++ user experience. This is a portable install of the app.
 
-To activate the dark-mode user interface for Notepad++, you need to remove your previous Notepad++ preferences from the "`%AppData%`" folder to allow this updated version's settings to be used from the portable install folder.
+To activate the dark-mode user interface for Notepad++, you need to remove your previous Notepad++ preferences from the "`%AppData%`" folder to allow this updated version's settings to be used.
 
 ## Screenshots
 
