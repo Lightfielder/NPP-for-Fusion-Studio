@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+By modifying this file, you can customize your context menu popuped as right clicking on the edit zone.
+It may be more convenient to access to your frequent used <?xml version="1.0" encoding="UTF-8"?>
+commands via context menu than via the top menu.
+
+Please check "How to Customize the Context Menu" on:
+https://npp-user-manual.org/docs/config-files/#the-context-menu-contextmenu-xml
+-->
+<NotepadPlus>
+	<ScintillaContextMenu>
+		<!-- 
+			Use MenuEntryName and MenuItemName to localize your commands to add. 
+			The values should be in English but not in translated language.
+			(You can set Notepad++ language back to English from Preferences dialog via menu "Settings->Preferences...")
+			-->
+		<!-- id="0" is the separator -->
+		<Item id="0"/>
+		<Item MenuEntryName="Edit" MenuItemName="Cut"/>
+		<Item MenuEntryName="Edit" MenuItemName="Copy"/>
+		<Item MenuEntryName="Macro" MenuItemName="Copy as WSL Codebox"/>
+		<Item MenuEntryName="Edit" MenuItemName="Paste"/>
+		<Item MenuEntryName="Edit" MenuItemName="Delete"/>
+		<Item MenuEntryName="Edit" MenuItemName="Select all"/>
+		<Item id="0"/>
+		<Item FolderName="Edit" MenuEntryName="View" MenuItemName="Show All Characters" ItemNameAs="Show Invisible"/>
+		<Item FolderName="Edit" MenuEntryName="View" MenuItemName="Word Wrap" ItemNameAs="Word Wrap"/>
+		<Item FolderName="Edit" id="0"/>
+		<Item FolderName="Edit" MenuEntryName="Edit" MenuItemName="Space to TAB (Leading)" ItemNameAs="Spaces to Tabs (Leading)"/>
+		<Item FolderName="Edit" MenuEntryName="Edit" MenuItemName="TAB to Space" ItemNameAs="Tabs to Spaces"/>
+		<Item FolderName="Edit" id="0"/>
+		<Item FolderName="Edit" MenuEntryName="Edit" MenuItemName="Trim Trailing Space" ItemNameAs="Strip Trailing Whitespace"/>
+		<Item FolderName="Edit" MenuEntryName="Macro" MenuItemName="Remove Non-Printable Characters" ItemNameAs="Remove Non-Printable Characters"/>
+		<Item FolderName="Edit" id="0"/>
+		<Item FolderName="Edit" MenuEntryName="Edit" MenuItemName="Sort Lines Lexicographically Ascending" ItemNameAs="Sort Lines"/>
+		<Item FolderName="Edit" MenuEntryName="Edit" MenuItemName="Remove Duplicate Lines" ItemNameAs="Remove Duplicate Lines"/>
+		<Item id="0"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="WSL Search"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="VFXPedia Search"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="BMD Forum Search"/>
+		<Item FolderName="Search" id="0"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="YouTube Search"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="Vimeo Search"/>
+		<Item FolderName="Search" id="0"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="Stackoverflow Search"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="Wikipedia Search"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="Wayback Machine Search"/>
+		<Item FolderName="Search" id="0"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="Reddit Search"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="Twitter Search"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="Linkedin Search"/>
+		<Item FolderName="Search" id="0"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="GIFY Search"/>
+		<Item FolderName="Search" MenuEntryName="Run" MenuItemName="IMGUR Search"/>
+		<Item id="0"/>
+		<Item FolderName="Comments" MenuEntryName="Edit" MenuItemName="Toggle Single Line Comment"/>
+		<Item FolderName="Comments" MenuEntryName="Edit" MenuItemName="Block Comment"/>
+		<Item FolderName="Comments" MenuEntryName="Edit" MenuItemName="Block Uncomment"/>
+		<Item FolderName="Change Case" MenuEntryName="Edit" MenuItemName="UPPERCASE"/>
+		<Item FolderName="Change Case" MenuEntryName="Edit" MenuItemName="lowercase"/>
+		<Item FolderName="Change Case" MenuEntryName="Edit" MenuItemName="Proper Case"/>
+		<Item FolderName="Change Case" MenuEntryName="Edit" MenuItemName="Sentence case"/>
+		<Item id="0"/>
+		<Item PluginEntryName="Compare" PluginCommandItemName="Compare"/>
+		<Item PluginEntryName="Compare" PluginCommandItemName="Clear All Compares" ItemNameAs="Clear Compare"/>
+		<Item id="0"/>
+		<Item MenuEntryName="Macro" MenuItemName="New with Selection" ItemNameAs="New with Selection"/>
+		<Item id="0"/>
+		<Item MenuEntryName="Edit" MenuItemName="Open File" ItemNameAs="Open Selected Filename"/>
+		<Item MenuEntryName="File" MenuItemName="Explorer" ItemNameAs="Open Containing Folder"/>
+		<Item MenuEntryName="File" MenuItemName="cmd" ItemNameAs="Open in Command Prompt"/>
+		<Item id="0"/>
+		<Item MenuEntryName="File" MenuItemName="Close All"/>
+		<Item id="0"/>
+		<Item MenuEntryName="File" MenuItemName="Rename..." ItemNameAs="Rename File..."/>
+		<Item MenuEntryName="File" MenuItemName="Reload from Disk" ItemNameAs="Reload from Disk"/>
+
+		<Item id="0"/>
+		<!-- You can use command id to add the commands you want. 
+			Check english.xml to get commands id:
+			https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/english.xml
+			
+			Use FolderName (optional) to create sub-menu. FolderName can be used in any type of item.
+			FolderName value can be in any language.
+			-->
+		<!--
+			To add plugin commands, you have to use PluginEntryName and PluginCommandItemName to localize the plugin commands
+			-->
+		<Item FolderName="Tools" PluginEntryName="LuaScript" PluginCommandItemName="Open in Fusion Studio" id="22041"/>
+		<Item FolderName="Tools" id="0"/>
+		<Item FolderName="Tools" MenuEntryName="View" MenuItemName="Always on Top" ItemNameAs="Keep Window on Top"/>
+		<Item FolderName="Tools" PluginEntryName="LuaScript" PluginCommandItemName="Show Console" ItemNameAs="Show Lua Console"/>
+		<Item FolderName="Tools" PluginEntryName="Python Script" PluginCommandItemName="Show Console" ItemNameAs="Show Python Console"/>
+		<Item FolderName="Tools" id="0"/>
+		<Item FolderName="Tools" PluginEntryName="JSON Viewer" PluginCommandItemName="Show JSON Viewer" ItemNameAs="View JSON"/>
+		<Item FolderName="Tools" PluginEntryName="Preview HTML" PluginCommandItemName="Preview HTML" ItemNameAs="View HTML"/>
+		<Item FolderName="Tools" PluginEntryName="NPPMarkdownPanel" PluginCommandItemName="Toggle Markdown Panel" ItemNameAs="View Markdown"/>
+		<Item FolderName="Tools" PluginEntryName="Snippets" PluginCommandItemName="Snippets" ItemNameAs="View Code Snippets"/>
+		<Item FolderName="Tools" id="0"/>
+		<Item FolderName="Tools" PluginEntryName="MIME Tools" PluginCommandItemName="Base64 Encode"/>
+		<Item FolderName="Tools" PluginEntryName="MIME Tools" PluginCommandItemName="Base64 Decode"/>
+		<Item FolderName="Tools" id="0"/>
+		<Item FolderName="Tools" MenuEntryName="Edit" MenuItemName="Date Time (customized)" ItemNameAs="Date and Time Stamp"/>
+		<Item FolderName="Tools" PluginEntryName="ToolBucket" PluginCommandItemName="Generate Lorem Ipsum" ItemNameAs="Lorem Ipsum"/>
+		<Item FolderName="Tools" PluginEntryName="ToolBucket" PluginCommandItemName="Generate GUID" ItemNameAs="GUID"/>
+		<Item FolderName="Tools" id="0"/>
+		<Item FolderName="Tools" MenuEntryName="Edit" MenuItemName="Current Full File path to Clipboard" ItemNameAs="Copy Filepath"/>
+		<!--
+			Use ItemNameAs (optional) to rename the menu item name in the context menu 
+			ItemNameAs can be used in any type of item. ItemNameAs value can be in any language.
+			-->
+		<Item id="0"/>
+	</ScintillaContextMenu>
+</NotepadPlus>

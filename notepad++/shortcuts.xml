@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <InternalCommands />
+    <Macros>
+        <Macro name="New with Selection" Ctrl="no" Alt="yes" Shift="yes" Key="67">
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="42002" lParam="0" sParam="" />
+            <Action type="0" message="2422" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2325" wParam="0" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="41001" lParam="0" sParam="" />
+            <Action type="0" message="2179" wParam="0" lParam="0" sParam="" />
+        </Macro>
+        <Macro name="Copy as WSL Codebox" Ctrl="yes" Alt="no" Shift="yes" Key="67">
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="42002" lParam="0" sParam="" />
+            <Action type="0" message="2422" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2325" wParam="0" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="41001" lParam="0" sParam="" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="[" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="C" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="d" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="b" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="x" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="=" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="f" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="=" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="W" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="S" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="L" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="p" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="p" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="." />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="g" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="]" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="&#x000D;" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="&#x000A;" />
+            <Action type="0" message="2179" wParam="0" lParam="0" sParam="" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="&#x000D;" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="&#x000A;" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="[" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="/" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="C" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="d" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="b" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="x" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="]" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="&#x000D;" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="&#x000A;" />
+            <Action type="0" message="2013" wParam="0" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="42007" lParam="0" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="42002" lParam="0" sParam="" />
+        </Macro>
+        <Macro name="Select All Copy" Ctrl="no" Alt="no" Shift="no" Key="0">
+            <Action type="0" message="2013" wParam="0" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="42007" lParam="0" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="42002" lParam="0" sParam="" />
+        </Macro>
+        <Macro name="Remove Non-Printable Characters" Ctrl="no" Alt="no" Shift="no" Key="0">
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x9F\s]" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2013" wParam="0" lParam="0" sParam="" />
+        </Macro>
+    </Macros>
+    <UserDefinedCommands>
+        <Command name="WSL Search" Ctrl="no" Alt="yes" Shift="yes" Key="112">https://www.steakunderwater.com/wesuckless/search.php?keywords=$(CURRENT_WORD)</Command>
+        <Command name="VFXPedia Search" Ctrl="no" Alt="yes" Shift="yes" Key="113">https://www.steakunderwater.com/wesuckless/googlesearch?q=$(CURRENT_WORD)&amp;t=0&amp;submit=Search</Command>
+        <Command name="BMD Forum Search" Ctrl="no" Alt="yes" Shift="yes" Key="114">https://forum.blackmagicdesign.com/search.php?keywords=$(CURRENT_WORD)&amp;terms=all&amp;author=&amp;sc=1&amp;sf=all&amp;sr=posts&amp;sk=t&amp;sd=d&amp;st=0&amp;ch=300&amp;t=0&amp;submit=Search</Command>
+        <Command name="YouTube Search" Ctrl="no" Alt="yes" Shift="yes" Key="115">https://www.youtube.com/results?search_query=$(CURRENT_WORD)</Command>
+        <Command name="Vimeo Search" Ctrl="no" Alt="yes" Shift="yes" Key="116">https://vimeo.com/search?q=$(CURRENT_WORD)</Command>
+        <Command name="Stackoverflow Search" Ctrl="no" Alt="yes" Shift="yes" Key="117">https://stackoverflow.com/search?q=$(CURRENT_WORD)</Command>
+        <Command name="Wikipedia Search" Ctrl="no" Alt="yes" Shift="yes" Key="118">https://en.wikipedia.org/wiki/Special:Search?search=$(CURRENT_WORD)</Command>
+        <Command name="Wayback Machine Search" Ctrl="no" Alt="yes" Shift="yes" Key="119">https://web.archive.org/web/*/$(CURRENT_WORD)</Command>
+        <Command name="Reddit Search" Ctrl="no" Alt="yes" Shift="yes" Key="120">https://www.reddit.com/search/?q=$(CURRENT_WORD)</Command>
+        <Command name="Twitter Search" Ctrl="no" Alt="yes" Shift="yes" Key="121">https://twitter.com/search?q=$(CURRENT_WORD)&amp;src=typed_query</Command>
+        <Command name="Linkedin Search" Ctrl="no" Alt="yes" Shift="yes" Key="122">https://www.linkedin.com/search/results/all/?keywords=$(CURRENT_WORD)</Command>
+        <Command name="GIFY Search" Ctrl="no" Alt="yes" Shift="yes" Key="123">https://giphy.com/search/$(CURRENT_WORD)</Command>
+        <Command name="IMGUR Search" Ctrl="yes" Alt="yes" Shift="yes" Key="123">https://imgur.com/search/score/all?q=$(CURRENT_WORD)</Command>
+        <Command name="Open selected file path in new instance" Ctrl="no" Alt="yes" Shift="no" Key="117">$(NPP_FULL_FILE_PATH) $(CURRENT_WORD) -nosession -multiInst</Command>
+    </UserDefinedCommands>
+    <PluginCommands />
+    <ScintillaKeys />
+</NotepadPlus>

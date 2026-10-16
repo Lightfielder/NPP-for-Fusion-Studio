@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="1" transparencyMode="1" transparency="200" dotMatchesNewline="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" isSearch2ButtonsMode="no" regexBackward4PowerUser="no">
+        <Filter name="" />
+    </FindHistory>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1" />
+    <ProjectPanels>
+        <ProjectPanel id="0" workSpaceFile="" />
+        <ProjectPanel id="1" workSpaceFile="" />
+        <ProjectPanel id="2" workSpaceFile="" />
+    </ProjectPanels>
+    <GUIConfigs>
+        <GUIConfig name="ToolBar" visible="yes">large2</GUIConfig>
+        <GUIConfig name="StatusBar">show</GUIConfig>
+        <GUIConfig name="TabBar" dragAndDrop="yes" drawTopBar="yes" drawInactiveTab="yes" reduce="yes" closeButton="yes" doubleClick2Close="no" vertical="no" multiLine="no" hide="no" quitOnEmpty="no" iconSetNumber="1" />
+        <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
+        <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
+        <GUIConfig name="TabSetting" replaceBySpace="no" size="2" />
+        <GUIConfig name="AppPosition" x="25" y="316" width="2045" height="959" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="32" top="1254" right="621" bottom="1618" />
+        <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20211129">yes</GUIConfig>
+        <GUIConfig name="Auto-detection">autoUpdate2End</GUIConfig>
+        <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
+        <GUIConfig name="TrayIcon">yes</GUIConfig>
+        <GUIConfig name="MaitainIndent">yes</GUIConfig>
+        <GUIConfig name="TagsMatchHighLight" TagAttrHighLight="yes" HighLightNonHtmlZone="no">yes</GUIConfig>
+        <GUIConfig name="RememberLastSession">yes</GUIConfig>
+        <GUIConfig name="DetectEncoding">yes</GUIConfig>
+        <GUIConfig name="SaveAllConfirm">yes</GUIConfig>
+        <GUIConfig name="NewDocDefaultSettings" format="0" encoding="4" lang="23" codepage="-1" openAnsiAsUTF8="yes" />
+        <GUIConfig name="langsExcluded" gr0="226" gr1="8" gr2="39" gr3="235" gr4="253" gr5="126" gr6="220" gr7="249" gr8="251" gr9="255" gr10="62" gr11="0" gr12="0" langMenuCompact="no" />
+        <GUIConfig name="Print" lineNumber="yes" printOption="3" headerLeft="" headerMiddle="" headerRight="" footerLeft="" footerMiddle="" footerRight="" headerFontName="" headerFontStyle="0" headerFontSize="0" footerFontName="" footerFontStyle="0" footerFontSize="0" margeLeft="0" margeRight="0" margeTop="0" margeBottom="0" />
+        <GUIConfig name="Backup" action="0" useCustumDir="no" dir="" isSnapshotMode="yes" snapshotBackupTiming="7000" />
+        <GUIConfig name="TaskList">yes</GUIConfig>
+        <GUIConfig name="MRU">yes</GUIConfig>
+        <GUIConfig name="URL">2</GUIConfig>
+        <GUIConfig name="uriCustomizedSchemes">svn:// cvs:// git:// imap:// irc:// irc6:// ircs:// ldap:// ldaps:// news: telnet:// gopher:// ssh:// sftp:// smb:// skype: snmp:// spotify: steam:// sms: slack:// chrome:// bitcoin:</GUIConfig>
+        <GUIConfig name="globalOverride" fg="no" bg="yes" font="yes" fontSize="yes" bold="no" italic="no" underline="no" />
+        <GUIConfig name="auto-completion" autoCAction="0" triggerFromNbChar="1" autoCIgnoreNumbers="no" funcParams="no" />
+        <GUIConfig name="auto-insert" parentheses="no" brackets="no" curlyBrackets="no" quotes="no" doubleQuotes="no" htmlXmlTag="no" />
+        <GUIConfig name="sessionExt"></GUIConfig>
+        <GUIConfig name="workspaceExt"></GUIConfig>
+        <GUIConfig name="MenuBar">show</GUIConfig>
+        <GUIConfig name="Caret" width="2" blinkRate="550" />
+        <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
+        <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
+        <GUIConfig name="titleBar" short="no" />
+        <GUIConfig name="stylerTheme" path="C:\ProgramData\Blackmagic Design\Fusion\Reactor\Deploy\Bin\notepad++\themes\Obsidian.xml" />
+        <GUIConfig name="insertDateTime" customizedFormat="yyyy-MM-dd hh:mm tt" reverseDefaultOrder="no" />
+        <GUIConfig name="wordCharList" useDefault="yes" charsAdded="" />
+        <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
+        <GUIConfig name="multiInst" setting="0" />
+        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" fileSwitcherExtWidth="50" fileSwitcherWithoutPathColumn="yes" fileSwitcherPathWidth="50" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="0" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" saveDlgExtFilterToAllTypes="no" muteSounds="no" />
+        <GUIConfig name="Searching" monospacedFontFindDlg="yes" stopFillingFindField="no" findDlgAlwaysVisible="no" confirmReplaceInAllOpenDocs="yes" replaceStopsWithoutFindingNext="no" />
+        <GUIConfig name="searchEngine" searchEngineChoice="1" searchEngineCustom="https://www.steakunderwater.com/wesuckless/search.php?keywords=$(CURRENT_WORD)" />
+        <GUIConfig name="MarkAll" matchCase="no" wholeWordOnly="yes" />
+        <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
+        <GUIConfig name="DarkMode" enable="yes" colorTone="32" customColorTop="2631720" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2631720" customColorError="3032272" customColorText="14737632" customColorDarkText="12632256" customColorDisabledText="8421504" customColorEdge="6579300" />
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="yes" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="show" Wrap="yes" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="-3" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" paddingLeft="0" paddingRight="0" distractionFreeDivPart="3" />
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="1082" topHeight="200" bottomHeight="302">
+            <FloatingWindow cont="4" x="218" y="156" width="937" height="708" />
+						<PluginDlg pluginName="Snippets" id="-1" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="PreviewHTML.dll" id="0" curr="1" prev="4" isVisible="no" />
+            <PluginDlg pluginName="ComparePlugin.dll" id="11" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Explorer.dll" id="0" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="LuaScript.dll" id="0" curr="3" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="NPPJSONViewer.dll" id="0" curr="1" prev="5" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="-1" isVisible="yes" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44085" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="NppMarkdownPanel" id="1" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Python Script" id="-1" curr="3" prev="-1" isVisible="no" />
+            <ActiveTabs cont="0" activeTab="-1" />
+            <ActiveTabs cont="1" activeTab="-1" />
+            <ActiveTabs cont="2" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
+        </GUIConfig>
+    </GUIConfigs>
+</NotepadPlus>
